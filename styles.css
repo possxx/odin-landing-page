@@ -78,6 +78,7 @@
     font-size: 16px;
     padding: 6px 28px;
     border-radius: 8px;
+    border: 1px solid #3882F6;
     margin-top: 10px;
 }
 
@@ -157,4 +158,43 @@
     align-self: flex-end;
     font-size: 18px;
     font-weight: bold;
+}
+
+.cta-section {
+    padding: 75px 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.content-cta {
+    width: 1200px;
+    background-color: #3882F6;
+    padding: 40px 80px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+}
+
+.cta-heading-text {
+    flex: 1;
+}
+
+.cta-heading {
+    color:#F9FAF8;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.cta-text {
+    color: #E5E7EB;
+}
+
+.cta-button {
+    background-color: #3882F6;
+    font-size: 16px;
+    padding: 6px 28px;
+    color: #F9FAF8;
+    font-weight: bold;
+    border: 1px solid #F9FAF8;
+    border-radius: 8px;
 }
