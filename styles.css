@@ -161,7 +161,7 @@
 }
 
 .cta-section {
-    padding: 75px 20px;
+    padding: 75px 20px 90px;
     display: flex;
     justify-content: center;
 }
@@ -197,4 +197,13 @@
     font-weight: bold;
     border: 1px solid #F9FAF8;
     border-radius: 8px;
+}
+
+.section-footer {
+    padding: 30px 20px;
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffffb0;
 }
